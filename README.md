@@ -1,5 +1,5 @@
 # Microbiome - Brain
 
-Code for Graf, Murgueitio et al (in preparation). Gut microbiome is associated with neural structure in neonates.
+Code for Graf, Murgueitio et al (in preparation). Gut microbiome is associated with insula structure in neonates.
 
 
